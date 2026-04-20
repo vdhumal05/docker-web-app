@@ -20,4 +20,5 @@ Run the application locally and open in browser.
 Open: http://127.0.0.1:5000
 
 ##  Screenshot
-[App Screenshot](docker1.jpg and docker2.jpg)
+![Screenshot 1](docker1.jpg)
+![Screenshot 2](docker2.jpg)
