@@ -27,7 +27,7 @@ Open: http://127.0.0.1:5000
 
 ## 📷 Task 3: Terraform Output
 
-(task3/terraform.jpg)
-(task3/terraform1.jpg)
-(task3/terraform2.jpg)
-(task3/terraform3.jpg)
+![Screenshot 1](task3/terraform.jpg)
+![Screenshot 2](task3/terraform1.jpg)
+![Screenshot 3](task3/terraform2.jpg)
+![Screenshot 4](task3/terraform3.jpg)
