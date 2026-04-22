@@ -1,5 +1,7 @@
 # docker-web-app
 
+![CI](https://github.com/vdhumal05/docker-web-app/actions/workflows/ci.yml/badge.svg)
+
 
 ##  Description
 This is a simple Python Flask app containerized using Docker.
