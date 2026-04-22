@@ -21,6 +21,12 @@ docker-compose up
 Run the application locally and open in browser.
 Open: http://127.0.0.1:5000
 
-##  Screenshot
+##  Screenshot Task 1
 ![Screenshot 1](docker1.jpg)
 ![Screenshot 2](docker2.jpg)
+
+## 📷 Task 3: Terraform Output
+
+![Init](task3/terraform-init.jpg)
+![Plan](task3/terraform-plan.jpg)
+![Apply](task3/terraform-apply.jpg)
